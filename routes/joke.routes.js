@@ -1,5 +1,5 @@
 const JokeController = require('../controllers/joke.controllers');
-console.log(JokeController);
+// console.log(JokeController);
 
 
 module.exports = app => {

@@ -6,6 +6,7 @@ const Joke = require("../models/joke.models");
 
 
 //CRUD functions
+
 module.exports = {
     
     // READ ALL JOKES
